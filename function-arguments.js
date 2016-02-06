@@ -20,3 +20,10 @@
 
      javascripting verify function-arguments.js
 */
+
+function math (number, number2, number3) {
+
+  console.log((number2*number3)+number);
+}
+
+math (53,61,67);
